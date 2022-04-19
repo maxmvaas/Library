@@ -12,7 +12,6 @@ C:\Users\maxmv\source\repos\Library\Library\bin\Debug\EntityFramework.SqlServer.
 C:\Users\maxmv\source\repos\Library\Library\bin\Debug\System.Data.SQLite.xml
 C:\Users\maxmv\source\repos\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
 C:\Users\maxmv\source\repos\Library\Library\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
-C:\Users\maxmv\source\repos\Library\Library\obj\Debug\Library.Form1.resources
 C:\Users\maxmv\source\repos\Library\Library\obj\Debug\Library.Properties.Resources.resources
 C:\Users\maxmv\source\repos\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
 C:\Users\maxmv\source\repos\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
@@ -21,3 +20,4 @@ C:\Users\maxmv\source\repos\Library\Library\obj\Debug\Library.exe
 C:\Users\maxmv\source\repos\Library\Library\obj\Debug\Library.pdb
 C:\Users\maxmv\source\repos\Library\Library\bin\Debug\Dapper.dll
 C:\Users\maxmv\source\repos\Library\Library\bin\Debug\Dapper.xml
+C:\Users\maxmv\source\repos\Library\Library\obj\Debug\Library.Main.resources

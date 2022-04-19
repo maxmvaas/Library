@@ -1,8 +1,10 @@
 ﻿using Library.entities;
+
 using System.Data;
 using System.Data.SQLite;
-using Dapper;
 using System.Configuration;
+
+using Dapper;
 
 namespace Library.dal
 {
@@ -39,6 +41,20 @@ namespace Library.dal
         {
             database.Execute(
                 "INSERT INTO Authors (name, surname, birthday) values (@name, @surname, @birthday) ", author);
+        }
+
+        public void Clear(Tables choice)
+        {
+            if (choice == 0)
+            {
+                database.Execute("DELETE FROM Books");
+                database.Execute("DELETE FROM sqlite_sequence WHERE name = 'Books'");
+            }
+            else
+            {
+                database.Execute("DELETE FROM Authors");
+                database.Execute("DELETE FROM sqlite_sequence WHERE name = 'Authors'");
+            }
         }
 
         private static string LoadConnectionString(string id = "DefaultConnection")
