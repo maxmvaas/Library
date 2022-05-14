@@ -44,3 +44,11 @@ C:\Users\maxmv\Source\Repos\maxmvaas\Library\Library\obj\Debug\Library.csproj.Co
 C:\Users\maxmv\Source\Repos\maxmvaas\Library\Library\obj\Debug\Library.csproj.CopyComplete
 C:\Users\maxmv\Source\Repos\maxmvaas\Library\Library\obj\Debug\Library.exe
 C:\Users\maxmv\Source\Repos\maxmvaas\Library\Library\obj\Debug\Library.pdb
+C:\Users\maxmv\source\repos\maxmvaas\Library\Library\bin\Debug\xunit.abstractions.dll
+C:\Users\maxmv\source\repos\maxmvaas\Library\Library\bin\Debug\xunit.assert.dll
+C:\Users\maxmv\source\repos\maxmvaas\Library\Library\bin\Debug\xunit.core.dll
+C:\Users\maxmv\source\repos\maxmvaas\Library\Library\bin\Debug\xunit.execution.desktop.dll
+C:\Users\maxmv\source\repos\maxmvaas\Library\Library\bin\Debug\xunit.abstractions.xml
+C:\Users\maxmv\source\repos\maxmvaas\Library\Library\bin\Debug\xunit.assert.xml
+C:\Users\maxmv\source\repos\maxmvaas\Library\Library\bin\Debug\xunit.core.xml
+C:\Users\maxmv\source\repos\maxmvaas\Library\Library\bin\Debug\xunit.execution.desktop.xml

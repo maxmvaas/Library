@@ -9,8 +9,6 @@
         private string publicationTime;
         private string creationTime;
 
-        //TODO: Вернуть DateTime.
-
         public Book(string title, int pagesCount, string publisher, string publicationTime, string creationTime)
         {
             Title = title;
@@ -20,10 +18,34 @@
             CreationTime = creationTime;
         }
 
-        public string Title { get => title; set => title = value; }
-        public int PagesCount { get => pagesCount; set => pagesCount = value; }
-        public string Publisher { get => publisher; set => publisher = value; }
-        public string PublicationTime { get => publicationTime; set => publicationTime = value; }
-        public string CreationTime { get => creationTime; set => creationTime = value; }
+        public string Title
+        {
+            get => title;
+            set => title = value;
+        }
+
+        public int PagesCount
+        {
+            get => pagesCount;
+            set => pagesCount = value;
+        }
+
+        public string Publisher
+        {
+            get => publisher;
+            set => publisher = value;
+        }
+
+        public string PublicationTime
+        {
+            get => publicationTime;
+            set => publicationTime = value;
+        }
+
+        public string CreationTime
+        {
+            get => creationTime;
+            set => creationTime = value;
+        }
     }
 }

@@ -3,11 +3,10 @@ using System.Data;
 
 namespace Library.dal
 {
-
     public enum Tables : byte
     {
-        BOOKS = 0,
-        AUTHORS = 1
+        Books = 0,
+        Authors = 1
     }
 
     internal interface IDatabaseRepository
@@ -21,6 +20,5 @@ namespace Library.dal
         void Add(Author author);
 
         void Clear(Tables choice);
-
     }
 }
